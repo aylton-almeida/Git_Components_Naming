@@ -10,7 +10,7 @@ Git Components Naming is a guide on how to structure and name the components of 
 
 ## <span id="folders">Folders</span>
 
-Each project has its specific folders, but there are some more commonly found, and here is a quick description with their function.
+Each project has its specific folders structure, but there are some most commonly found, and here is a quick description with their function.
 
   src - The source folder contains the main code of your application
 
@@ -20,7 +20,9 @@ Each project has its specific folders, but there are some more commonly found, a
 
   vendors - The vendors folder contains third party files, like images and fonts or something bigger than a library, like a framework
 
-All these folders are just sugestion and should be used as freely as they were created to be, there is no exact rule on how they should be used
+  test - The test folder contains unit test for functions inside your code
+
+All these folders are just sugestions and should be used as needed in each project, there is no exact rule on how they should be implemented
 
 ## <span id="branchs">Branchs</span>
 
