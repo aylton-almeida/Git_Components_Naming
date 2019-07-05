@@ -21,6 +21,8 @@ Each project has its specific folders structure, but there are some most commonl
   vendors - The vendors folder contains third party files, like images and fonts or something bigger than a library, like a framework
 
   test - The test folder contains unit test for functions inside your code
+  
+  utils - The utils folder contains files with code used in several different files
 
 All these folders are just sugestions and should be used as needed in each project, there is no exact rule on how they should be implemented
 
