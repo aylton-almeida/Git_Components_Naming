@@ -49,6 +49,7 @@ The **mode** tag represents which action was taken with the object in question a
 * [+] - Added object
 * [~] - Modified object
 * [^] - Ugraded object
+* [.] - Finished object 
 
 The **description** should be a quick text with important information not mentioned above, it should be surrounded with **braces**.
 
