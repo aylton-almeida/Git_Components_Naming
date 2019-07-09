@@ -23,6 +23,8 @@ Each project has its specific folders structure, but there are some most commonl
   test - The test folder contains unit test for functions inside your code
   
   utils - The utils folder contains files with code used in several different files
+  
+  components - The components folder contains parts of your app, usually used with tools such as ReactJs and Angular 
 
 All these folders are just sugestions and should be used as needed in each project, there is no exact rule on how they should be implemented
 
