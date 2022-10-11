@@ -66,6 +66,5 @@ assets[+]index[~]{modified page title} - Folder "assets" was created and the ind
 ## Authors
 
 * [Aylton Almeida](https://github.com/stevreeper)
-* [Bruno Marini](https://github.com/themarini)
 
 
